@@ -2,6 +2,5 @@
     "name": "ds/firstpackage",
     "description": "dushuai first package test",
     "type": "library",
-    "minimum-stability": "dev",
     "require": {}
 }
