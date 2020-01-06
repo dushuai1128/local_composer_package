@@ -2,6 +2,6 @@
     "name": "dushuai1128/local_composer_package",
     "description": "dushuai first package test",
     "type": "library",
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "require": {}
 }
