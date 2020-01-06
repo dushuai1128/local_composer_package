@@ -1,6 +1,22 @@
 {
-    "name": "ds/firstpackage",
-    "description": "dushuai first package test",
-    "type": "library",
-    "require": {}
+  "name": "dushuai1128/local_composer_package",
+  "type": "library",
+  "description": "dushuai first package test",
+  "keywords": [
+    "iBrand crop",
+    "private composer",
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dushuai",
+      "email": "dushuai@cditv.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6|^7.0",
+  },
+
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
